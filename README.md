@@ -1,1 +1,33 @@
 # Pizza-Sales-Analysis-Using-SQL
+
+The goal of this SQL project is to analyze pizza sales data to gain insights into customer behavior, popular 
+pizza types, sales trends, and overall performance. The analysis will be performed using four tables: 
+order_details, orders, pizza_type, and pizza.
+
+--Q1: The total number of order place
+
+-- Q2: The total revenue generated from pizza sales
+
+-- Q3: The highest priced pizza.
+
+-- Q4: The most common pizza size ordered.
+
+-- Q5: The top 5 most ordered pizza types along their quantities.
+	pizzas p
+
+-- Q6: The quantity of each pizza categories ordered.
+
+-- Q7: The distribution of orders by hours of the day.
+
+-- Q8: The category-wise distribution of pizzas.
+
+-- Q9: The average number of pizzas ordered per day.	
+
+-- Q10: Top 3 most ordered pizza type base on revenue.
+
+-- Q11: The percentage contribution of each pizza type to revenue.	
+
+-- Q12: The cumulative revenue generated over time.
+	 
+-- Q13: The top 3 most ordered pizza type based on revenue for each pizza category.
+
